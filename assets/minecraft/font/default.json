@@ -3,8 +3,8 @@
         {
             "type": "bitmap",
             "file": "thevance_lobby:scoreboard/logo.png",
-            "ascent": 90,
-            "height": 180,
+            "ascent": 55,
+            "height": 90,
             "chars": [
                 "෴"
             ]
