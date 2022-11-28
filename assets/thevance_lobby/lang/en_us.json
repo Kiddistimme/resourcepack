@@ -2,5 +2,5 @@
     "scoreboard-line-option-1-title": "Online",
     "scoreboard-line-option-2-content": "%s/%s",
     
-    "hotbar-item-compass-name": "Navigator"
+    "hotbar.item.compass.name": "Navigator"
 }
