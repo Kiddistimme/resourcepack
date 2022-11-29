@@ -17,6 +17,15 @@
             "chars": [
                 "⚢"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_lobby:scoreboard/notification.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "ෳ"
+            ]
         }
     ]
 }
