@@ -1,3 +1,4 @@
 {
-    
+    "global-no-permission-message-command": "You currently do not have the permissions for this command."
+
 }
