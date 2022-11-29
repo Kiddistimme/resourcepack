@@ -1,5 +1,10 @@
 {
+    "bungee-prefix": "» ",
+
     "coins.command.self": "Du hast %s Coins.",
+
+    "ping.command.self": "Dein Ping ist %s ms.",
+
     "playtime.command.self": "Du hast eine Spielzeit von %s",
     "playtime.command.format.day": "Tag",
     "playtime.command.format.days": "Tage",
