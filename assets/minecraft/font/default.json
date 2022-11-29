@@ -12,8 +12,8 @@
         {
             "type": "bitmap",
             "file": "thevance_lobby:scoreboard/rank.png",
-            "ascent": 10,
-            "height": 18,
+            "ascent": 7,
+            "height": 10,
             "chars": [
                 "⚢"
             ]
