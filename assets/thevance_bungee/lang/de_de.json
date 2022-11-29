@@ -1,0 +1,12 @@
+{
+    "coins.command.self": "Du hast %s Coins.",
+    "playtime.command.self": "Du hast eine Spielzeit von %s",
+    "playtime.command.format.day": "Tag",
+    "playtime.command.format.days": "Tage",
+    "playtime.command.format.hour": "Stunde",
+    "playtime.command.format.hours": "Stunden",
+    "playtime.command.format.minute": "Miniute",
+    "playtime.command.format.minutes": "Miniuten",
+    "playtime.command.format.second": "Sekunde",
+    "playtime.command.format.seconds": "Sekunden"
+}
