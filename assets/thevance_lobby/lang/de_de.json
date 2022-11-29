@@ -1,9 +1,15 @@
 {
     "scoreboard.line.option.1": "Rang: %s",
-
+    
     "hotbar.item.compass.lore.navigation.menu": " um das Navigationsmenü zu öffnen",
-    "hotbar.item.compass.lore.quickplay.menu": " um das Quickplay-Menü zu öffnen",
-    "hotbar.item.compass.lore.drop.teleport": " für direkten Teleport zum Spawn.",
+    "hotbar.item.compass.lore.quickplay.menu": " um das Navigationsmenü zu öffnen",
+    "hotbar.item.compass.lore.drop.teleport": " um direkt zum Spawn teleportiert zu werden.",
+    "hotbar.item.compass.name": "Navigation",
 
-    "hotbar.item.compass.name": "Navigator"
+    "hotbar.item.lobby.switchihng.lore.open.menu": " um den Lobbywechsler zu öffnen",
+    "hotbar.item.lobby.switching.name": "Lobbywechsler",
+
+    "hotbar.item.profile.name": "Profil",
+    "hotbar.item.profile.lore.open.menu": " um das Profil zu öffnen"
+
 }

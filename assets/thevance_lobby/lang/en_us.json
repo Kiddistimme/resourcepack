@@ -6,7 +6,10 @@
     "hotbar.item.compass.lore.drop.teleport": " for direct teleport to spawn.",
     "hotbar.item.compass.name": "Navigation",
 
-    "hotbar.item.lobby.switchihng.lore.open.menu": " to open the lobby selector manu",
-    "hotbar.item.lobby.switching.name": "Lobby selector"
+    "hotbar.item.lobby.switchihng.lore.open.menu": " to open the lobby selector menu",
+    "hotbar.item.lobby.switching.name": "Lobby selector",
+
+    "hotbar.item.profile.name": "Profile",
+    "hotbar.item.profile.lore.open.menu": " to open the profile menu"
 
 }
