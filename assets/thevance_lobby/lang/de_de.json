@@ -1,5 +1,9 @@
 {
     "scoreboard.line.option.1": "Rang: %s",
-    
-    "hotbar.item.compass.name": "Wegweiser"
+
+    "hotbar.item.compass.lore.navigation.menu": " um das Navigationsmenü zu öffnen",
+    "hotbar.item.compass.lore.quickplay.menu": " um das Quickplay-Menü zu öffnen",
+    "hotbar.item.compass.lore.drop.teleport": " für direkten Teleport zum Spawn.",
+
+    "hotbar.item.compass.name": "Navigator"
 }
