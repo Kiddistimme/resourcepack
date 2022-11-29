@@ -5,6 +5,8 @@
 
     "ping.command.self": "Your ping is %s ms.",
 
+    "teamchat.command.prefix": "» ",
+
     "playtime.command.self": "Your playtime is %s",
     "playtime.command.format.day": "day",
     "playtime.command.format.days": "days",
