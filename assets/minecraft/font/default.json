@@ -66,7 +66,7 @@
         {
             "type": "bitmap",
             "file": "thevance_core:ui/space.png",
-            "ascent": -23768,
+            "ascent": -32768,
             "height": -10,
             "chars": [
                 "௴"
