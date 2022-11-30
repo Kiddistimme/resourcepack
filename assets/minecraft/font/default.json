@@ -30,8 +30,8 @@
         {
             "type": "bitmap",
             "file": "thevance_core:rank/administrator.png",
-            "ascent": 8,
-            "height": 8,
+            "ascent": 7,
+            "height": 7,
             "chars": [
                 "௰"
             ]
