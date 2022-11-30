@@ -29,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "thevance_core:rank/administrator.png",
+            "file": "thevance_core:rank/admin.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -38,38 +38,92 @@
         },
         {
             "type": "bitmap",
-            "file": "thevance_core:rank/head_content.png",
-            "ascent": 8,
-            "height": 8,
+            "file": "thevance_core:rank/communityadmin.png",
+            "ascent": 7,
+            "height": 7,
             "chars": [
                 "௱"
             ]
         },
         {
             "type": "bitmap",
-            "file": "thevance_core:rank/supporter.png",
-            "ascent": 8,
-            "height": 8,
+            "file": "thevance_core:rank/headdev.png",
+            "ascent": 7,
+            "height": 7,
             "chars": [
                 "௲"
             ]
         },
         {
             "type": "bitmap",
-            "file": "thevance_lobby:ui/navigation/blank_navigation.png",
-            "ascent": 19,
-            "height": 256,
+            "file": "thevance_core:rank/dev.png",
+            "ascent": 7,
+            "height": 7,
             "chars": [
                 "௳"
             ]
         },
         {
             "type": "bitmap",
-            "file": "thevance_core:ui/space.png",
-            "ascent": -32768,
-            "height": -10,
+            "file": "thevance_core:rank/headcontent.png",
+            "ascent": 7,
+            "height": 7,
             "chars": [
                 "௴"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:rank/content.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "௵"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:rank/headmod.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "௶"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:rank/mod.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "௷"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:rank/support.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "௸"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:rank/testsupport.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "௹"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:rank/player.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "௺"
             ]
         }
 
