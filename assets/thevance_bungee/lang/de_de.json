@@ -5,6 +5,15 @@
 
     "ping.command.self": "Dein Ping ist %s ms.",
 
+    "teamchat.command.prefix": "» ",
+
+    "teamchat.command.usage.message": "/teamchat <Nachricht>",
+    "teamchat.command.usage.message.description": "Schreibe etwas im Teamchat.",
+    "teamchat.command.usage.list.online.teammember": "/teamchat list",
+    "teamchat.command.usage.list.online.teammember.description": "Zeige dir alle erreichbaren Teamler.",
+    "teamchat.command.usage.toggle.login": "/teamchat toggle",
+    "teamchat.command.usage.toggle.login.description": "Ändere die Sichtbarkeit des Teamchats.",
+
     "playtime.command.self": "Du hast eine Spielzeit von %s",
     "playtime.command.format.day": "Tag",
     "playtime.command.format.days": "Tage",

@@ -7,6 +7,13 @@
 
     "teamchat.command.prefix": "» ",
 
+    "teamchat.command.usage.message": "/teamchat <Nachricht>",
+    "teamchat.command.usage.message.description": "write anything in the teamchat",
+    "teamchat.command.usage.list.online.teammember": "/teamchat list",
+    "teamchat.command.usage.list.online.teammember.description": "show you a list of all available staff member",
+    "teamchat.command.usage.toggle.login": "/teamchat toggle",
+    "teamchat.command.usage.toggle.login.description": "toggle your teamchat visibility",
+
     "playtime.command.self": "Your playtime is %s",
     "playtime.command.format.day": "day",
     "playtime.command.format.days": "days",
