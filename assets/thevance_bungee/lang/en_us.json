@@ -17,6 +17,18 @@
     "teamchat.command.usage.toggle.login": "/teamchat toggle",
     "teamchat.command.usage.toggle.login.description": "toggle your teamchat visibility",
 
+    "highteamchat.command.prefix": "» ",
+    "highteamchat.command.notify.not.active": "You are not logged into the highteamchat. Please use /highteamchat toggle",
+    "highteamchat.command.usage.title": "Highteamchat management",
+    "highteamchat.command.notify.toggle.active": "Your highteamchat notifications have been activated.",
+    "highteamchat.command.notify.toggle.deactive": "Your highteamchat notifications have been disabled.",
+    "highteamchat.command.usage.message": "/highteamchat <your message>",
+    "highteamchat.command.usage.message.description": "write anything in the highteamchat",
+    "highteamchat.command.usage.list.online.teammember": "/highteamchat list",
+    "highteamchat.command.usage.list.online.teammember.description": "show you a list of all available high staff member",
+    "highteamchat.command.usage.toggle.login": "/highteamchat toggle",
+    "highteamchat.command.usage.toggle.login.description": "toggle your highteamchat visibility",
+
     "playtime.command.self": "Your playtime is %s",
     "playtime.command.format.day": "day",
     "playtime.command.format.days": "days",
