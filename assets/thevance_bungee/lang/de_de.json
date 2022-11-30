@@ -7,6 +7,9 @@
 
     "teamchat.command.prefix": "» ",
 
+    "teamchat.command.usage.title": "Teamchat Verwaltung",
+    "teamchat.command.notify.toggle.active": "Deine Team-Chat-Benachrichtigungen wurden aktiviert.",
+    "teamchat.command.notify.toggle.deactive": "Deine Teamchat-Benachrichtigungen wurden deaktiviert.",
     "teamchat.command.usage.message": "/teamchat <Nachricht>",
     "teamchat.command.usage.message.description": "Schreibe etwas im Teamchat.",
     "teamchat.command.usage.list.online.teammember": "/teamchat list",
