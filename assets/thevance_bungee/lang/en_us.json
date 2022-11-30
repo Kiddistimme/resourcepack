@@ -6,7 +6,7 @@
     "ping.command.self": "Your ping is %s ms.",
 
     "teamchat.command.prefix": "» ",
-
+    "teamchat.command.notify.not.active": "You are not logged into the team chat. Please use /teamchat toggle",
     "teamchat.command.usage.title": "Team chat management",
     "teamchat.command.notify.toggle.active": "Your team chat notifications have been activated.",
     "teamchat.command.notify.toggle.deactive": "Your team chat notifications have been disabled.",
