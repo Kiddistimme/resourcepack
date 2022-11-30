@@ -10,6 +10,10 @@
     "hotbar.item.lobby.switching.name": "Lobby selector",
 
     "hotbar.item.profile.name": "Profile",
-    "hotbar.item.profile.lore.open.menu": " to open the profile menu"
+    "hotbar.item.profile.lore.open.menu": " to open the profile menu",
+
+    "inventory.navigation.item.bedwars.displayname": "BedWars",
+    "inventory.navigation.item.bedwars.lore.1": "Buy items, destroy your rival's beds",
+    "inventory.navigation.item.bedwars.lore.2": "and protect your own."
 
 }
