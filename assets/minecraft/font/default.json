@@ -26,6 +26,16 @@
             "chars": [
                 "ෳ"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:rank/administrator.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "௰"
+            ]
         }
+
     ]
 }
