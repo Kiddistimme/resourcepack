@@ -125,6 +125,24 @@
             "chars": [
                 "௺"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_lobby:ui/navigation/blank_navigation.png",
+            "ascent": 19,
+            "height": 256,
+            "chars": [
+                "ῲ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_core:ui/space.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "Ώ"
+            ]
         }
 
     ]
