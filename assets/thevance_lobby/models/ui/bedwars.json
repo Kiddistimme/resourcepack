@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "thevance_lobby:ui/navigation/items/bedwars"
+    },
+    "display": {
+        "gui": {
+            "scale": [
+                3.25,
+                3.25,
+                3.25
+            ],
+            "translation": [
+                0,
+                -35,
+                0
+            ]
+        }
+    }
+}
