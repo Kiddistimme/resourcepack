@@ -1,4 +1,17 @@
 {
+    "lobby.prefix": "» ",
+
+    "setup.command.usage.title": "Setup management",
+    "setup.command.usage.spawnposition.create": "/setup spawnposition create <name>",
+    "setup.command.usage.spawnposition.create.descirption": "create a spawn position.",
+    "setup.command.usage.spawnposition.delete": "/setup spawnposition delete <name>",
+    "setup.command.usage.spawnposition.delete.description": "delete a spawn position.",
+    "setup.command.usage.spawnposition.list": "/setup spawnposition list",
+    "setup.command.usage.spawnposition.list.description": "show you a list of all spawns from spawnposition",
+    "setup.command.spawn.create": "Spawn %s was successfully created.",
+    "setup.command.spawn.delete.fail.not.exist": "Spawn %s could not be deleted because there is no location for it.",
+    "setup.command.spawn.delete": "Spawn %s was deleted.",
+
     "scoreboard.line.option.1": "Rank: %s",
     
     "hotbar.item.compass.lore.navigation.menu": " to open the navigation menu",
@@ -14,6 +27,9 @@
 
     "inventory.navigation.item.bedwars.displayname": "BedWars",
     "inventory.navigation.item.bedwars.lore.1": "Buy items, destroy your rival's beds",
-    "inventory.navigation.item.bedwars.lore.2": "and protect your own."
+    "inventory.navigation.item.bedwars.lore.2": "and protect your own.",
+
+    "inventory.navigation.item.spawn.displayname": "Spawn",
+    "inventory.navigation.item.spawn.lore.1": ""
 
 }
