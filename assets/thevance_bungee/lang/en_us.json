@@ -1,8 +1,6 @@
 {
     "bungee-prefix": "» ",
 
-    "coins.command.self": "You have %s coins.",
-
     "ping.command.self": "Your ping is %s ms.",
 
     "teamchat.command.prefix": "» ",
@@ -28,6 +26,26 @@
     "highteamchat.command.usage.list.online.teammember.description": "show you a list of all available high staff member",
     "highteamchat.command.usage.toggle.login": "/highteamchat toggle",
     "highteamchat.command.usage.toggle.login.description": "toggle your highteamchat visibility",
+
+    "coins.command.player.not.found": "%s coudn't be found.",
+    "coins.command.self": "You have %s coins.",
+    "coins.command.other": "Player %s currently has %s coins.",
+    "coins.command.usage.title": "Coins management",
+    "coins.command.usage.self": "/coins",
+    "coins.command.usage.self.description": "view the number of coins in your account balance.",
+    "coins.command.usage.other": "/coins <player name>",
+    "coins.command.usage.other.description": "show you the number of coins from another player.",
+    "coins.command.usage.add.value": "/coins <player name> add <amount>",
+    "coins.command.usage.add.value.description": "Add coins to a player.",
+    "coins.command.usage.set.value": "/coins <player name> set <amount>",
+    "coins.command.usage.set.value.description": "Set a player coins.",
+    "coins.command.usage.remove.value": "/coins <player name> remove <amount>",
+    "coins.command.usage.remove.value.description": "Remove coins from a player.",
+    "coins.command.usage.incorrect.usage": "Incorrect usage!",
+    "coins.command.not.valued": "Please enter a valid number.",
+    "coins.command.handle.add": "The player %s now has %s coins.",
+    "coins.command.handle.remove": "The player %s now has %s coins.",
+    "coins.command.handle.set": "The player %s now has %s coins.",
 
     "playtime.command.self": "Your playtime is %s",
     "playtime.command.format.day": "day",

@@ -20,6 +20,24 @@
         },
         {
             "type": "bitmap",
+            "file": "thevance_lobby:scoreboard/coin.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "₧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "thevance_lobby:scoreboard/gold.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "₩"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "thevance_lobby:scoreboard/notification.png",
             "ascent": 8,
             "height": 10,
@@ -144,6 +162,5 @@
                 "Ώ"
             ]
         }
-
     ]
 }
